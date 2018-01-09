@@ -6,9 +6,3 @@ Great user interface makes the site easy to read and look well organized which b
 
 # Start
 
-# Performance 
-
-# Member
-
-# Sponsor
-
